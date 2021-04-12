@@ -1,15 +1,6 @@
  // Your web app's Firebase configuration
- var firebaseConfig = {
-  apiKey: "AIzaSyCLGpxZs2pD9mqZCrFwuOI0gYPdRWN5Ksw",
-  authDomain: "kwitter-6abca.firebaseapp.com",
-  databaseURL: "https://kwitter-6abca-default-rtdb.firebaseio.com",
-  projectId: "kwitter-6abca",
-  storageBucket: "kwitter-6abca.appspot.com",
-  messagingSenderId: "231606977400",
-  appId: "1:231606977400:web:d2d2878892c4b97584fe8d"
-};
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+var firebaseConfig = 
+    { apiKey: "AIzaSyDJr-Ih4nCnUnerS5EPaRQ0b3kZjF1AakM", authDomain: "class-test-ced3e.firebaseapp.com", databaseURL: "https://class-test-ced3e-default-rtdb.firebaseio.com", projectId: "class-test-ced3e", storageBucket: "class-test-ced3e.appspot.com", messagingSenderId: "84531601029", appId: "1:84531601029:web:da00fabf61530c587293ec", measurementId: "G-4EFFLHND0Q" }; // Initialize Firebase firebase.initializeApp(firebaseConfig);
 
 
 
